@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456877659015",
+    "project_id": "libseat-smnr26",
+    "storage_bucket": "libseat-smnr26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456877659015:android:e46dda102d89e47ef7b922",
+        "android_client_info": {
+          "package_name": "com.example.library_seat_tracking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8llE_vtCHV4I3khAsFqTrJts6Vzp9ZwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
