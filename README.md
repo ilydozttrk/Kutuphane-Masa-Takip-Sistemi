@@ -376,5 +376,4 @@ Bu yapı sayesinde proje hem teknik kaynak kodları hem de sunum/rapor materyall
 
 Bu proje eğitim ve dönem sonu uygulaması kapsamında geliştirilmiştir. Kullanım ve paylaşım sürecinde proje ekibinin emeğine atıf yapılması önerilir.
 =======
-# kutuphane-masa-takip-sistemi
->>>>>>> b82ae1a4edd090e96ae20f2543ad5063e37f2bef
+
